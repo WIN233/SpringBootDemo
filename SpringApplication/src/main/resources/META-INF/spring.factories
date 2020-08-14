@@ -5,4 +5,5 @@ com.demo.context.HelloWorldApplicationContextInitializer
 # Application Listeners
 org.springframework.context.ApplicationListener=\
 com.demo.listener.AfterHelloWorldApplicationListener,\
-com.demo.listener.HelloWorldApplicationListener
+com.demo.listener.HelloWorldApplicationListener,\
+com.demo.listener.BeforConfigFileApplicationListener
