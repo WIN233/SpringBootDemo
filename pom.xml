@@ -8,6 +8,7 @@
         <module>AutoConfiguration</module>
         <module>Overview</module>
         <module>SpringApplication</module>
+        <module>SpringMVCDemo</module>
     </modules>
 
     <parent>
