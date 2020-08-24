@@ -9,6 +9,7 @@
         <module>Overview</module>
         <module>SpringApplication</module>
         <module>SpringMVCDemo</module>
+        <module>SpringBoot-WebMVC</module>
     </modules>
 
     <parent>
