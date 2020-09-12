@@ -10,6 +10,7 @@
         <module>SpringApplication</module>
         <module>SpringMVCDemo</module>
         <module>SpringBoot-WebMVC</module>
+        <module>SpringBootRest</module>
     </modules>
 
     <parent>
